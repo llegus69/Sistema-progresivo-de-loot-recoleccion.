@@ -1,7 +1,7 @@
---[[
-    ====================================================
-          SISTEMA PROGRESIVO DE LOOT PROFESIONES
-    ====================================================
+
+    ===========================================
+    SISTEMA PROGRESIVO DE LOOT PROFESIONES
+    ===========================================
     
     Creador: Lleguito
     Para: Comunidad WoW (servidores AzerothCore + Eluna 3.3.5a)
@@ -15,5 +15,5 @@
     - duplicate status       → Ver estado actual
     
     ¡Disfruta y comparte en la comunidad!
-    ====================================================
---]]
+    =========================================
+
