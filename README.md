@@ -19,8 +19,8 @@
 
 
 
-  ===========================================
+  ===============================
     Instalacion
-    =========================================
+    =============================
 
     Copia el archivo Lua en la carpeta Lua_Scripts de tu servidor Azerothcore.
